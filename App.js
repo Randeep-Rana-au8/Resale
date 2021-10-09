@@ -7,8 +7,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text h1>Hello</Text>
-      <Text>Hi</Text>
+      <Text>Hi There, This is my first line of code for React Native</Text>
       <StatusBar style="auto" />
     </View>
   );
